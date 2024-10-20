@@ -1,4 +1,3 @@
-import { resolve } from "path"
 
 export default async function About() {
     await new Promise ((resolve)=>{
